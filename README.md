@@ -108,3 +108,8 @@ cmake --build build --config Release
 
 ---
 <sub>Indexed tags: ps99-autofarm, autofarm, coins, hatch, pets, gaming-tools, automation, pet-sim-99, roblox, cli, developer-tools, open-source, windows, productivity, cpp, portable, prebuilt, tools</sub>
+
+## Keywords
+
+pet-sim-99 roblox autofarm coins hatch pets gaming-tools automation pet-sim-helper ps99-autofarm pet-sim-99-farm windows portable prebuilt x64 free download
+related: pet-sim-99, roblox, autofarm, coins, hatch, pets, gaming-tools, automation
