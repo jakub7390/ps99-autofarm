@@ -1,0 +1,23 @@
+{
+  "module": "ps99-autofarm",
+  "version": "0.1.0",
+  "runtime": {
+    "threads": 4,
+    "verbose": false,
+    "hot_reload": true
+  },
+  "modules": {
+    "coins": {
+      "enabled": true
+    },
+    "hatch": {
+      "enabled": true
+    },
+    "rare": {
+      "enabled": true
+    },
+    "cli": {
+      "enabled": true
+    }
+  }
+}
